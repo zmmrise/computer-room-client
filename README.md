@@ -1,4 +1,4 @@
-# computer-room-client
+# vue-shop
 
 ## Project setup
 ```
